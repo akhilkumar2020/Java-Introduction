@@ -13,4 +13,4 @@ JRE: - JRE stands for Java Runtime Environment. It is the implementation of JVM 
 
 ![image](https://github.com/akhilkumar2020/Java-Introduction/assets/142902709/8015e4b5-178a-4e76-aae2-61521f197405)
 
-![image](https://github.com/akhilkumar2020/Java-Introduction/assets/142902709/15529100-cc78-44b5-9e52-f19303e1688e)
+

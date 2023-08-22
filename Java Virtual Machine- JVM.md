@@ -1,5 +1,5 @@
 JAVA VIRTUAL MACHINE: - Java Virtual Machine (JVM) is an engine that provides a runtime environment in which byte code can be executed. JVM is the heart of the 
-entire JAVA program execution process. JVM is a part of the Java Runtime Environment (JRE). JVM is platform-independent. It is responsible for taking .class file 
+entire JAVA program execution process. JVM is a part of the Java Runtime Environment (JRE). JVM is platform-dependent. It is responsible for taking .class file 
 & converting each byte code instruction into the machine language instruction that can be executed by the microprocessor.
 
 What JVM does-

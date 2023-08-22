@@ -2,8 +2,7 @@ JAVA PROGRAM EXECUTION PROCESS: - Java programs involve 2 steps execution proces
 1. Compilation process.
 2. Execution/Run process.
 
-Compilation process: - Now once the program is created and does not have any errors, we can compile the program. The compiler compiles the program and, if there are no errors after compiling the program, 
-we can further run it and get the desired output
+Compilation process: - When a program is created, we can compile the program. The compiler compiles the program and, if after compiling the program the compiler does not find any error, we can run it further and get the desired output
 ![image](https://github.com/akhilkumar2020/Java-Introduction/assets/142902709/d8615e68-4456-4045-bcf9-e8a417820862)
 
 Execution/Run process: - At runtime, the following steps are performed:

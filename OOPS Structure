@@ -1,8 +1,8 @@
 In this section, I describe the OOPS Structure.
 
-OBJECT-ORIENTED PROGRAMMING STRUCTURE: - Object-Oriented Programming is a paradigm that provides many concepts, such as inheritance, data binding, polymorphism, etc. 
-The basic concept of OOPs is to create objects, re-use them throughout the program, and manipulate these objects to get results. OOP meaning “Object Oriented 
-Programming” is a popularly known and widely used concept in modern programming languages like Java.
+OBJECT-ORIENTED PROGRAMMING STRUCTURE: - Object-Oriented Programming is a paradigm that provides many concepts, such as inheritance, data binding, 
+polymorphism, etc. The basic concept of OOPs is to create objects, re-use them throughout the program, and manipulate these objects to get results. 
+OOP means “Object Oriented Programming” is a popularly known and widely used concept in modern programming languages like Java.
 
 OOPS Concepts: -
 1.	Class – Blueprint of an object. 

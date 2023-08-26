@@ -1,0 +1,5 @@
+What is JIT compiler?
+JIT compiler stands for Just in time compiler. JIT compiler compiles byte code in to executable code. JIT a part of JVM JIT cannot convert complete java program in to executable code it converts as and when it is needed during execution. 
+
+What is bytecode in java?
+When a javac compiler compiles a java file it generates .class file. This .class file contains set of Instructions called byte code. Byte code is a machine independent language and contains set of instructions which are to be executed only by JVM. JVM can understand this byte codes.
